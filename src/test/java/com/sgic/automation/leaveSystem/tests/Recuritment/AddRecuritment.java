@@ -1,7 +1,6 @@
-package com.sgic.automation.leaveSystem.Recuritment;
+package com.sgic.automation.leaveSystem.tests.Recuritment;
 
 
-import com.sgic.automation.leaveSystem.TestData.Recruitment;
 import com.sgic.automation.leaveSystem.pages.DashboardPage;
 import com.sgic.automation.leaveSystem.pages.RecruitmentTypePage;
 import com.sgic.automation.leaveSystem.utils.TestBase;
